@@ -5,7 +5,7 @@
     "keywords": ["ebay", "api", "sdk", "laravel", "laravel5", "php"],
     "license": "MIT",
     "require": {
-        "php": ">=5.5",
+        "php": ">=7.2",
         "takerootio/ebay-sdk-php": "*"
     },
     "license": "MIT",
