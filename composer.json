@@ -1,5 +1,5 @@
 {
-    "name": "hkonnet/laravel-ebay",
+    "name": "takerootio/laravel-ebay",
     "description": "This package is wrapper for php Ebay sdk for laravel to automate all the configurations and make the skd ready to use.",
     "type": "library",
     "keywords": ["ebay", "api", "sdk", "laravel", "laravel5", "php"],
